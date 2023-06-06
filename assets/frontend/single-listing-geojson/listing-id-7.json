@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "77.221155",
+                    "28.606527"
+                ]
+            },
+            "properties": {
+                "id": "91f9ec1834d3ceaf943fa790818bd399",
+                "index": 0,
+                "isActive": true,
+                "logo": "60626b8cca34a5b0e1b460dbb1779f7b.jpg",
+                "image": "60626b8cca34a5b0e1b460dbb1779f7b.jpg",
+                "link": "https://chg.vasero.in/aaa/shop/shanthala-incense/7",
+                "url": "",
+                "name": "Shanthala Incense",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "1234567898",
+                "address": "Delhi",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

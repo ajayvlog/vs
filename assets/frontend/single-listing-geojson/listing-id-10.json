@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.986775",
+                    "40.252804"
+                ]
+            },
+            "properties": {
+                "id": "1eff56916316257feea68a18af9e3d28",
+                "index": 0,
+                "isActive": true,
+                "logo": "e707f22cecb2133415366981788e86ea.jpg",
+                "image": "e707f22cecb2133415366981788e86ea.jpg",
+                "link": "http://127.0.0.1/vs/shop/hgfhgf/10",
+                "url": "",
+                "name": "hgfhgf",
+                "category": "shop",
+                "email": "",
+                "stars": "0.0",
+                "phone": "",
+                "address": "gfdgfgfgfd",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

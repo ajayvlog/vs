@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "81.61105",
+                    " 21.19914"
+                ]
+            },
+            "properties": {
+                "id": "ff757e25c7a140e2c88cf8b543cc69a2",
+                "index": 0,
+                "isActive": true,
+                "logo": "867ce66dcbd5f400da5fae052f10a432.jpg",
+                "image": "867ce66dcbd5f400da5fae052f10a432.jpg",
+                "link": "https://chg.vasero.in/aaa/general/sparkle-media/9",
+                "url": "",
+                "name": "Sparkle Media",
+                "category": "general",
+                "email": "sparklemedia2020@gmail.com",
+                "stars": "5.0",
+                "phone": "7067077799",
+                "address": "",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

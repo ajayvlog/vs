@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "75.729904",
+                    "26.627818"
+                ]
+            },
+            "properties": {
+                "id": "437cbf6758349faa4f3f8c784732cc0a",
+                "index": 0,
+                "isActive": true,
+                "logo": "3977a8b4a81cc88101617bb7a8f0b6fe.jpg",
+                "image": "3977a8b4a81cc88101617bb7a8f0b6fe.jpg",
+                "link": "https://chg.vasero.in/aaa/shop/charvi-textile/8",
+                "url": "thehindutoday.com",
+                "name": "Charvi textile",
+                "category": "shop",
+                "email": "gopalshrivastva@gmail.com",
+                "stars": "1.0",
+                "phone": "7905066074",
+                "address": "jdsklfdsjflkdsjflksjdlfjdslfkj",
+                "about": "about",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
